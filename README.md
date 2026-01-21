@@ -45,10 +45,3 @@ You can restart the current level at any time using the **Restart** button.
 2. Open `index.html` in your browser.
 3. Start playing!
 
----
-
-##  Project Structure
-memory-game/
-├── index.html
-└── js/
-└── game.js
