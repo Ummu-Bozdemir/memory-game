@@ -39,13 +39,15 @@ You can restart the current level at any time using the **Restart** button.
 
 ---
 
-## Play Online
-You can play the game here: https://ummu-bozdemir.github.io/memory-game/
-
-
 ##  How to Run
 
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
 3. Start playing!
+
+---
+
+## Play Online
+You can play the game here: https://ummu-bozdemir.github.io/memory-game/
+
 
